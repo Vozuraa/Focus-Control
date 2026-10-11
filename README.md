@@ -1,3 +1,5 @@
+COMMENT Télecharger et Lancer Focus Control : 
+
 Télécharger et lancer Focus Control
 Téléchargez le projet. Sur la page GitHub du projet, cliquez sur le bouton Code, puis sur Download ZIP.
 Décompressez le projet. Faites un clic droit sur le fichier ZIP téléchargé, puis choisissez Extraire tout (ou utilisez votre logiciel de décompression). Vous obtenez un dossier contenant notamment Focus Control.bat.
