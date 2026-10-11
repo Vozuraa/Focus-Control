@@ -1,0 +1,11 @@
+<Window xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Focus Control — superposition" Width="228" Height="260"
+        WindowStartupLocation="Manual" WindowStyle="None" ResizeMode="NoResize"
+        AllowsTransparency="True" Background="Transparent" ShowInTaskbar="False"
+        Topmost="True" ShowActivated="False" FontFamily="Segoe UI">
+  <Border x:Name="OverlaySurface" CornerRadius="18" Background="#7512161C"
+          BorderBrush="#35FFFFFF" BorderThickness="1" Padding="14,11">
+    <StackPanel x:Name="OverlayWidgetHost"/>
+  </Border>
+</Window>
